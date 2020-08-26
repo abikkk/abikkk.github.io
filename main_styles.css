@@ -1,0 +1,63 @@
+/*setting default font*/
+*{
+	font-family: 'Nunito', sans-serif;
+}
+
+/*setting background*/
+body{ 
+  background: url(sunrise.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/*blurs*/
+.blur-low{
+	filter: blur(2px);
+}
+.blur-med{
+	filter: blur(5px);
+}
+.blur-high{
+	filter: blur(10px);
+}
+
+.navbar{
+	font-size: 40px;
+}
+
+/*image sizes*/
+.img-xsm{
+	width: 10%;
+	height: auto;
+}
+.img-sm{
+	width: 25%;
+	height: auto;
+}
+.img-med{
+	width: 50%;
+	height: auto;
+}
+.img-l{
+	width: 75%;
+	height: auto;
+}
+.img-xl{
+	width: 90%;
+	height: auto;
+}
+
+/*links*/
+.links{
+	text-decoration: none;
+	color: black;
+	line-height: 80px;
+ 	transition: all .2s ease-in-out;
+}
+
+.links:hover{
+ 	font-size:1.02em;
+	font-weight: bold;
+}
