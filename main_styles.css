@@ -28,6 +28,10 @@ body{
 }
 
 /*image sizes*/
+.img-thumb{
+	width: 50px;
+	height: auto;
+}
 .img-xsm{
 	width: 10%;
 	height: auto;
@@ -48,6 +52,12 @@ body{
 	width: 90%;
 	height: auto;
 }
+
+.socials{
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(200px,1fr));
+	grid-row-gap: 15px;
+	justify-content: center;
 
 /*links*/
 .links{
