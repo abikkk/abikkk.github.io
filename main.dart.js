@@ -20881,55 +20881,55 @@ A.fT(J.G(r.aX$,p).cy.c,b)
 s=$.bZ
 if(s!=null)s.K(0,q)
 A.fT(J.G(r.aX$,p).db.c,b);++p}},
-arh(a,b,c){var s,r=null,q="vs code",p="android studio",o="vs_code",n=b?B.a7:B.N,m=b?44:20,l=t.p,k=A.bx(A.a([A.dO(A.c0("portfolio",r,r,$.dR().p3.e,r))],l),B.q,B.k),j=A.bx(A.a([A.bv(A.dO(A.c0("i having working as a flutter developer professionally for almost 3 years now.\ni have experiences with REST and SOAP APIs along with XML language and JSON parsin",4,!0,r,r)),1)],l),B.q,B.k),i=A.bx(A.a([A.bv(A.dO(A.c0("my knowledge base on these languages and development environments (IDE) i use can be divided as follows:",4,!0,r,r)),1)],l),B.q,B.k),h=b?B.N:B.a7,g=b?2:3,f=A.b4(0,800),e=A.aU(a,r,t.w).w,d=$.dR().p3.Q
-d.toString
-g=A.bv(new A.aV(B.yJ,new A.v9(c.a0,B.j_,e.a.a/3,f,44,c.ap,0,"projects",new A.Wx(!0,!1,d,B.ih,B.zM),new A.Rj(!0,0,!0,!1),r),r),g)
-f=b?3:2
-e=c.bB
-d=c.ai
-h=A.ct(A.a([k,new A.aV(B.dz,j,r),new A.aV(B.yN,i,r),A.bv(A.abN(A.a([g,A.bv(A.ct(A.a([A.wR(c,q,0,e.gk(e),!1),A.wR(c,p,1,d.gk(d),!1)],l),B.H,B.O,B.aK),f)],l),B.H,h,r,B.q,B.k,r,r,B.b9),1)],l),B.H,B.O,B.k)
-f=A.bx(A.a([A.dO(A.c0("flutter",r,r,$.dR().p3.e,r))],l),B.q,B.k)
-d=A.bx(A.a([A.bv(A.dO(A.c0('i have been working as a senior flutter developer for the past 2 years in a private software solution company in Pokhara, involved in 15+ projects for our clients in Dubai and local projects as well.\n * notable example of local project would be "Pokhara Food Delivery", which is available on Google Play Store.',8,!0,r,r)),1)],l),B.q,B.k)
-k=b?40:10
-j=c.af
-i=j.i(0,o)
+arh(a,b,a0){var s,r=null,q="vs code",p="android studio",o="vs_code",n=!b||!1,m=b?B.a7:B.N,l=b?44:20,k=t.p,j=A.bx(A.a([A.dO(A.c0("portfolio",r,r,$.dR().p3.e,r))],k),B.q,B.k),i=A.bx(A.a([A.bv(A.dO(A.c0("i having working as a flutter developer professionally for almost 3 years now.\ni have experiences with REST and SOAP APIs along with XML language and JSON parsin",4,!0,r,r)),1)],k),B.q,B.k),h=A.bx(A.a([A.bv(A.dO(A.c0("my knowledge base on these languages and development environments (IDE) i use can be divided as follows:",4,!0,r,r)),1)],k),B.q,B.k),g=b?B.N:B.a7,f=b?2:3,e=A.b4(0,800),d=A.aU(a,r,t.w).w,c=$.dR().p3.Q
+c.toString
+f=A.bv(new A.aV(B.yJ,new A.v9(a0.a0,B.j_,d.a.a/3,e,44,a0.ap,0,"projects",new A.Wx(!0,!1,c,B.ih,B.zM),new A.Rj(!0,0,!0,!1),r),r),f)
+e=b?3:2
+d=a0.bB
+c=a0.ai
+g=A.ct(A.a([j,new A.aV(B.dz,i,r),new A.aV(B.yN,h,r),A.bv(A.abN(A.a([f,A.bv(A.ct(A.a([A.wR(a0,q,0,d.gk(d),!1),A.wR(a0,p,1,c.gk(c),!1)],k),B.H,B.O,B.aK),e)],k),B.H,g,r,B.q,B.k,r,r,B.b9),1)],k),B.H,B.O,B.k)
+e=A.bx(A.a([A.dO(A.c0("flutter",r,r,$.dR().p3.e,r))],k),B.q,B.k)
+c=A.bx(A.a([A.bv(A.dO(A.c0('i have been working as a senior flutter developer for the past 2 years in a private software solution company in Pokhara, involved in 15+ projects for our clients in Dubai and local projects as well.\n * notable example of local project would be "Pokhara Food Delivery", which is available on Google Play Store.',8,!0,r,r)),1)],k),B.q,B.k)
+j=b?40:10
+i=a0.af
+h=i.i(0,o)
+h.toString
+h=A.wR(a0,q,0,h,!1)
+i=i.i(0,"android_studio")
 i.toString
-i=A.wR(c,q,0,i,!1)
-j=j.i(0,"android_studio")
-j.toString
-j=A.ct(A.a([f,new A.aV(B.dz,d,r),new A.aV(new A.ao(0,k,0,0),A.ct(A.a([i,A.wR(c,p,1,j,!1)],l),B.H,B.O,B.k),r)],l),B.H,B.O,B.k)
-k=b?44:20
-i=A.bx(A.a([A.dO(A.c0("react.js",r,r,$.dR().p3.e,r))],l),B.q,B.k)
-g=A.ct(A.a([A.bx(A.a([A.bv(A.dO(A.c0("i worked as a freelancer for 8 months. my projects ranges as follows:",4,!0,r,r)),1)],l),B.q,B.k),A.bx(A.a([A.bv(A.dO(A.c0(" - portfolio websites\n - cafe website\n - e-commerce\n - warehouse/inventory management",8,!0,r,r)),1)],l),B.q,B.k)],l),B.H,B.q,B.k)
-f=b?40:10
-e=c.aK.i(0,o)
-e.toString
-e=A.ct(A.a([i,new A.aV(B.dz,g,r),new A.aV(new A.ao(0,f,0,0),A.wR(c,q,0,e,!0),r)],l),B.H,B.O,B.k)
-i=b?44:20
-g=A.bx(A.a([A.dO(A.c0("vue.js",r,r,$.dR().p3.e,r))],l),B.q,B.k)
-f=A.bx(A.a([A.bv(A.dO(A.c0("i worked as an intern for a private company in Pokhara as their junior frontend developer for 6 months. i was involved in development of employee record management system and attendance management system. i have my own portfolio website under development as well.",8,!0,r,r)),1)],l),B.q,B.k)
-d=b?40:10
-s=c.aR.i(0,o)
+i=A.ct(A.a([e,new A.aV(B.dz,c,r),new A.aV(new A.ao(0,j,0,0),A.ct(A.a([h,A.wR(a0,p,1,i,!1)],k),B.H,B.O,B.k),r)],k),B.H,B.O,B.k)
+j=b?44:20
+h=A.bx(A.a([A.dO(A.c0("react.js",r,r,$.dR().p3.e,r))],k),B.q,B.k)
+f=A.ct(A.a([A.bx(A.a([A.bv(A.dO(A.c0("i worked as a freelancer for 8 months. my projects ranges as follows:",4,!0,r,r)),1)],k),B.q,B.k),A.bx(A.a([A.bv(A.dO(A.c0(" - portfolio websites\n - cafe website\n - e-commerce\n - warehouse/inventory management",8,!0,r,r)),1)],k),B.q,B.k)],k),B.H,B.q,B.k)
+e=b?40:10
+d=a0.aK.i(0,o)
+d.toString
+d=A.ct(A.a([h,new A.aV(B.dz,f,r),new A.aV(new A.ao(0,e,0,0),A.wR(a0,q,0,d,!0),r)],k),B.H,B.O,B.k)
+h=b?44:20
+f=A.bx(A.a([A.dO(A.c0("vue.js",r,r,$.dR().p3.e,r))],k),B.q,B.k)
+e=A.bx(A.a([A.bv(A.dO(A.c0("i worked as an intern for a private company in Pokhara as their junior frontend developer for 6 months. i was involved in development of employee record management system and attendance management system. i have my own portfolio website under development as well.",8,!0,r,r)),1)],k),B.q,B.k)
+c=b?40:10
+s=a0.aR.i(0,o)
 s.toString
-n=A.a([A.bv(A.Y2(!0,A.a([new A.aV(new A.ao(m,m,m,m),h,r),new A.aV(B.dA,j,r),new A.aV(new A.ao(k,k,k,k),e,r),new A.aV(new A.ao(i,i,i,i),A.ct(A.a([g,new A.aV(B.dz,f,r),new A.aV(new A.ao(0,d,0,0),A.wR(c,q,0,s,!0),r)],l),B.H,B.O,B.k),r),A.asE(b,c)],l),c.CW,new A.a_E(c,b),!0,r,n),3)],l)
-if(b)n.push(A.bv(A.ct(A.a([A.acV(a,c,0),A.acV(a,c,1),A.acV(a,c,2)],l),B.H,B.O,B.k),1))
-n=A.a([A.bx(n,B.q,B.k)],l)
-if(b)n.push(A.YL(30,new A.dY(new A.a_F(c),r),r,r,30,r,r,r))
+m=A.a([A.bv(A.Y2(!0,A.a([new A.aV(new A.ao(l,l,l,l),g,r),new A.aV(B.dA,i,r),new A.aV(new A.ao(j,j,j,j),d,r),new A.aV(new A.ao(h,h,h,h),A.ct(A.a([f,new A.aV(B.dz,e,r),new A.aV(new A.ao(0,c,0,0),A.wR(a0,q,0,s,!0),r)],k),B.H,B.O,B.k),r),A.asE(b,a0)],k),a0.CW,new A.a_E(a0,b),n,r,m),3)],k)
+if(b)m.push(A.bv(A.ct(A.a([A.acV(a,a0,0),A.acV(a,a0,1),A.acV(a,a0,2)],k),B.H,B.O,B.k),1))
+n=A.a([A.bx(m,B.q,B.k)],k)
+if(b)n.push(A.YL(30,new A.dY(new A.a_F(a0),r),r,r,30,r,r,r))
 return A.ip(B.aW,n,B.aQ)},
-ari(a,b,c){var s,r,q=null,p=b?B.a7:B.N,o=t.w,n=A.aU(a,q,o).w,m=b?B.a7:B.N,l=t.p,k=A.bx(A.a([A.acU(c,0,"youtube")],l),B.q,B.k),j=A.bx(A.a([A.bv(A.dO(A.c0("i upload clips from my gameplays and live streams to my youtube channel. drop by and show some love if you can. thanks!",q,!0,q,q)),1)],l),B.q,B.k),i=b?A.dZ(q,q,q):A.wS(a,c,0,!1)
-i=A.ct(A.a([k,new A.aV(B.fm,j,q),i],l),B.H,B.O,B.k)
-j=A.bx(A.a([A.acU(c,1,"twitch")],l),B.q,B.k)
-k=A.bx(A.a([A.bv(A.dO(A.c0("i try to stream regularly, as much as i can. i normally just stream for myself. my live streams include games like valorant, apex legends, gta v online, singing sessions, podcasts and coding streams.\nyou can check out my twitch.",q,!0,q,q)),1)],l),B.q,B.k)
+ari(a,b,c){var s,r,q=null,p=b?B.a7:B.N,o=t.w,n=A.aU(a,q,o).w,m=!b||!1,l=b?B.a7:B.N,k=t.p,j=A.bx(A.a([A.acU(c,0,"youtube")],k),B.q,B.k),i=A.bx(A.a([A.bv(A.dO(A.c0("i upload clips from my gameplays and live streams to my youtube channel. drop by and show some love if you can. thanks!",q,!0,q,q)),1)],k),B.q,B.k),h=b?A.dZ(q,q,q):A.wS(a,c,0,!1)
+h=A.ct(A.a([j,new A.aV(B.fm,i,q),h],k),B.H,B.O,B.k)
+i=A.bx(A.a([A.acU(c,1,"twitch")],k),B.q,B.k)
+j=A.bx(A.a([A.bv(A.dO(A.c0("i try to stream regularly, as much as i can. i normally just stream for myself. my live streams include games like valorant, apex legends, gta v online, singing sessions, podcasts and coding streams.\nyou can check out my twitch.",q,!0,q,q)),1)],k),B.q,B.k)
 s=b?A.dZ(q,q,q):A.wS(a,c,1,!1)
-s=A.ct(A.a([j,new A.aV(B.fm,k,q),s],l),B.H,B.O,B.k)
-k=A.bx(A.a([A.acU(c,2,"discord")],l),B.q,B.k)
-j=A.bx(A.a([A.bv(A.dO(A.c0("you can join my discord server. we can have fun together with my friends.",q,!0,q,q)),1)],l),B.q,B.k)
+s=A.ct(A.a([i,new A.aV(B.fm,j,q),s],k),B.H,B.O,B.k)
+j=A.bx(A.a([A.acU(c,2,"discord")],k),B.q,B.k)
+i=A.bx(A.a([A.bv(A.dO(A.c0("you can join my discord server. we can have fun together with my friends.",q,!0,q,q)),1)],k),B.q,B.k)
 r=b?A.dZ(q,q,q):A.wS(a,c,2,!1)
-m=A.a([A.bv(A.Y2(!0,A.a([new A.aV(B.dA,i,q),new A.aV(B.dA,s,q),new A.aV(B.dA,A.ct(A.a([k,new A.aV(B.fm,j,q),r],l),B.H,B.O,B.k),q)],l),c.cx,new A.a_G(c),!0,q,m),3)],l)
-if(b)m.push(A.bv(A.ct(A.a([A.wS(a,c,0,!0),A.wS(a,c,1,!0),A.wS(a,c,2,!0)],l),B.H,B.O,B.k),1))
-n=A.a([A.dZ(A.bx(m,B.q,B.k),n.a.b,q)],l)
+l=A.a([A.bv(A.Y2(!0,A.a([new A.aV(B.dA,h,q),new A.aV(B.dA,s,q),new A.aV(B.dA,A.ct(A.a([j,new A.aV(B.fm,i,q),r],k),B.H,B.O,B.k),q)],k),c.cx,new A.a_G(c),m,q,l),3)],k)
+if(b)l.push(A.bv(A.ct(A.a([A.wS(a,c,0,!0),A.wS(a,c,1,!0),A.wS(a,c,2,!0)],k),B.H,B.O,B.k),1))
+n=A.a([A.dZ(A.bx(l,B.q,B.k),n.a.b,q)],k)
 if(b){o=A.aU(a,q,o).w
-n.push(A.dZ(A.bx(A.a([A.acW(a,c,0),A.acW(a,c,1),A.acW(a,c,2)],l),B.O,B.k),o.a.b,q))}p=A.a([A.Y2(!0,n,c.cy,new A.a_H(c),!0,q,p)],l)
+n.push(A.dZ(A.bx(A.a([A.acW(a,c,0),A.acW(a,c,1),A.acW(a,c,2)],k),B.O,B.k),o.a.b,q))}p=A.a([A.Y2(!0,n,c.cy,new A.a_H(c),!0,q,p)],k)
 if(b)p.push(A.YL(30,new A.dY(new A.a_I(c),q),q,q,30,q,q,q))
 return A.ip(B.aW,p,B.aQ)},
 asH(a){return new A.dY(new A.a3i(a),null)},
