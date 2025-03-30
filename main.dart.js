@@ -22507,9 +22507,9 @@ p=t.p
 s=A.bE(A.a([A.cG(A.bk("projects",m,m,m,s.aY(r.fx.gj(0)?B.h:B.i),m),0.6)],p),B.n,B.r,B.x,0)
 o=A.bH(0,111,0)
 o=A.cQ(A.dC(A.a([s,A.cQ(A.bE(A.a([A.n2(A.qQ(new A.abX(q,r),J.bw(q.cy.gj(0)),m,B.a6,new A.abY(r),!0),m,B.R,m,o,m,m,m,m,250),A.cQ(A.cG(new A.bA(new A.abZ(q),m),0.6))],p),B.aJ,B.r,B.x,0))],p),B.n,B.r,20))
-s=!q.ch.gj(0)&&q.db.gp(0)===0?50:320
+s=!q.ch.gj(0)&&q.db.gp(0)===0?50:360
 n=A.bH(0,111,0)
-return new A.e8(new A.aY(44,44,44,44),A.bE(A.a([o,A.n2(A.dC(A.a([A.cQ(new A.bA(new A.ac_(q,r),m))],p),B.n,B.r,0),m,B.R,new A.cP(B.N,m,m,m,m,m,B.af),n,m,m,new A.aY(20,0,0,0),m,s)],p),B.n,B.r,B.x,0),m)},
+return new A.e8(new A.aY(44,44,44,44),A.bE(A.a([o,A.n2(A.dC(A.a([A.cQ(new A.bA(new A.ac_(q,r),m))],p),B.n,B.r,0),m,B.R,new A.cP(B.N,m,m,m,m,m,B.af),n,m,720,new A.aY(20,0,0,0),m,s)],p),B.n,B.r,B.x,0),m)},
 aFI(a){var s,r,q,p,o,n,m,l=null
 $.bQ()
 s=$.ah
@@ -71130,7 +71130,7 @@ $1(a){return new A.eZ(new A.abT(a,this.a),null)},
 $S:511}
 A.abT.prototype={
 $1(a){var s=null,r=this.a.a.gj(0)
-return new A.ne(new A.l4(s,r,s,1,s,s,s,s,B.Ai),r,new A.abR(),new A.abS(this.b),300,B.fc,s)},
+return new A.ne(new A.l4(s,r,s,1,s,s,s,s,B.Ai),r,new A.abR(),new A.abS(this.b),360,B.fc,s)},
 $S:512}
 A.abS.prototype={
 $3(a,b,c){return A.eI(B.zU,this.a.fx.gj(0)?B.h:B.i,null)},
